@@ -1,0 +1,30 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/parsing-batch/parsing-batch",
+          "pathName": "pages/parsing-batch/parsing-batch",
+          "query": "pageId=yfsx&data=%7B%7D",
+          "scene": null
+        },
+        {
+          "name": "pages/login/index",
+          "pathName": "pages/login/index",
+          "query": "pageId=dl&data=%7B%22tabIndex%22%3A0%7D",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
